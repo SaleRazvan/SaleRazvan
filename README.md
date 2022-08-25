@@ -1,6 +1,6 @@
-#### Hello there 👋 my name is Razvan and I am freshly employed as a Junior Web Developer, after a brief spell of being an intern.
+#### Hello there 👋 my name is Razvan and I am an enthusiastic Web Developer
 
-#### ⚡🔰 Although a newcomer, I have been dealing with computers and technologies for a long time. Ever since childhood I have had an interest in the way modern applications and platforms operate behind the scenes and how they bring everything to life. In many ways, I have cultivated this curiosity and have been tackling said areas both within my educational path, but also in my personal endeavours.
+#### ⚡🔰 I have been dealing with computers and technologies for a long time. Ever since childhood I have had an interest in the way modern applications and platforms operate behind the scenes and how they bring everything to life. In many ways, I have cultivated this curiosity and have been tackling said areas both within my educational path, but also in my personal endeavours.
 
 #### ⚡🎭 Some of my noteworthy traits are: orientation towards details, the solid work ethic and ambition, and the compromising nature. As suggested, I look into any issues that may arise with tenacity and determination, always being ready to switch the approaches as it may best fit the ultimate goal. I deem intellectual flexibility the most powerful tool the human mind should strive to use. 
 
